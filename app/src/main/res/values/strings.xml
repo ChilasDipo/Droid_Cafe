@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Droid_Cafe</string>
+    <string name="donut_order_message" />
+    <string name="ice_cream_order_message" />
+    <string name="froyo_order_message" />
+    <string name="donutorder">DOnutOrder</string>
+    <string name="icecreamorder">IcecreamOrder</string>
+    <string name="froyoorder">FroyoOrder</string>
+    <string name="imagebutton">imagebutton</string>
+</resources>
